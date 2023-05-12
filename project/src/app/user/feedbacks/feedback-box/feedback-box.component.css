@@ -1,0 +1,29 @@
+.example-card {
+    width: 100%;
+    max-width: 500px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    background-color: #b5df82;
+    font-family: Arial, sans-serif;
+  }
+  
+  .txt {
+    text-align: center;
+    background-color: #b5df82;
+  }
+  
+  .par {
+    margin: 10px 0;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #b5df82;
+  }
+  
+  .tp {
+    margin: 10px 0 0;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: #b5df82;
+  }
+  

@@ -1,0 +1,30 @@
+.service-box{
+    float: left;
+    width: 230px;
+    height: 230px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 5px gray;
+    margin: 30px;
+}
+
+.image-holder{
+    height: 80%;
+    width: 100%;
+}
+
+.image-holder img{
+    height: 100%;
+    width: 100%;
+}
+
+.text{
+    height: 30%;
+    text-align: center;
+    background-color: rgb(244, 239, 239);
+    
+    color: rgb(18, 9, 9);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16px;
+    padding-top: 15px;
+    box-sizing: border-box;
+}

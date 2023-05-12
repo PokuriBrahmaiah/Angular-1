@@ -1,0 +1,53 @@
+h2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 24px;
+    color: #150e0e;
+    padding: 20px;
+    background-color: #e8e8e8;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: #0e5784;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #77e57b;
+  }
+  
+  .app-feedback-box {
+    width: 100%;
+    max-width: 500px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    background-color: #f8f8f8;
+    font-family: Arial, sans-serif;
+  }
+  
+  .txt {
+    text-align: center;
+  }
+  
+  .par {
+    margin: 10px 0;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .tp {
+    margin: 10px 0 0;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  

@@ -1,0 +1,7 @@
+<h2 [style.color]="'darkgray'" [style.padding]="'20px'">
+    User feedback <button mat-button (click)="openDialog()">Give your feedback</button></h2>
+
+<app-feedback-box 
+*ngFor="let x of feedbacks"
+ [feedback]="x"></app-feedback-box>
+ 

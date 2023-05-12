@@ -1,0 +1,923 @@
+{
+  "users": [
+    {
+      "email": "anil@gmail.com",
+      "password": "$2a$10$qLCzxp8bYoFl0TUnM3khkOQed/oj6p0Vi9m91/WIlZqn6dzwsD4Iu",
+      "firstname": "Anil",
+      "lastname": "Kumar",
+      "id": 1
+    },
+    {
+      "email": "rahul@gmail.com",
+      "password": "$2a$10$GN3udmMj3FOG3Ya.tp5VmuBqBVwY0dYU1ro74BpVxs8xB0./Gqw8m",
+      "username": "rahul",
+      "lastname": "krishna",
+      "type": "user",
+      "id": 3
+    },
+    {
+      "email": "roger@gmail.com",
+      "password": "$2a$10$8VfL/mTrUsF7CsmFZBNCXuYKao0PM9CrOIxTn0iqWYoKD0vwPE1AC",
+      "username": "roger",
+      "lastname": "Federer",
+      "type": "admin",
+      "id": 4
+    },
+    {
+      "email": "kiran@gmail.com",
+      "password": "$2a$10$QxNGN1c9fIgWiQ5KHNwZnOWlZq8cJm/xM27oriUKLGptO8s9Pb2bq",
+      "username": "kiran",
+      "type": "user",
+      "id": 5
+    },
+    {
+      "email": "jackson@gmail.com",
+      "password": "$2a$10$.ZPImtvO49SX6YMHepjxV.PXhJoEDXuxnCtHG2bQ2KY/NErZ0SGYW",
+      "username": "jackson",
+      "type": "admin",
+      "lastname": "Mike",
+      "id": 6
+    },
+    {
+      "email": "naresh@gmail.com",
+      "password": "$2a$10$OhQd/XS2d3PAiWrNnYWXleoGC.2bMdZajo/yd5BSAxbGeqLw7YtEO",
+      "username": "naresh",
+      "type": "user",
+      "lastname": "Mike",
+      "id": 7
+    },
+    {
+      "email": "harish1@gmail.com",
+      "password": "$2a$10$svGznVNLN48xPFxadLPhLOxfYzOIpTgi8wahFfuptRKoXlAAZWsqa",
+      "username": "harish1",
+      "type": "user",
+      "id": 8
+    },
+    {
+      "email": "brahmaiahpokuri1234@gmail.com",
+      "password": "$2a$10$dieRYVAPStZEbZhYiM/H9ei1V.PN3A08R0Z1H3DbBQuPkvciRAQpy",
+      "username": "brahmam",
+      "type": "user",
+      "id": 9
+    },
+    {
+      "email": "kiranp5477@gmail.com",
+      "password": "$2a$10$OOd5X7Ri03YRwfE0d8h.a.nSRBWMa2qFhdLXjJNt3bQGpaLDPZV0G",
+      "username": "kirankumar",
+      "type": "user",
+      "id": 10
+    },
+    {
+      "email": "admin12@gmail.com",
+      "password": "$2a$10$zfQ6SYCVBSEkpH/B/WSHY.oOKe22CZa39QZH.R2LgKezVKDmviWRK",
+      "username": "admin123",
+      "type": "admin",
+      "id": 11
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Taboule Salad",
+      "type": "Salads",
+      "image": "Taboule_Salad.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 2,
+      "name": "Greek Salad",
+      "type": "Salads",
+      "image": "Greek_Salad.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 3,
+      "name": "Chicken Caesar Salad",
+      "type": "Salads",
+      "image": "Chicken_Caesar_Salad.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 4,
+      "name": "Chickpea Salad",
+      "type": "Salads",
+      "image": "Chickpea_Salad.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 5,
+      "name": "Pasta Primavera",
+      "type": "Salads",
+      "image": "Pasta_Primavera.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 6,
+      "name": "Tuna Salad",
+      "type": "Salads",
+      "image": "Tuna_Salad.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 7,
+      "name": "Egg Salad",
+      "type": "Salads",
+      "image": "Egg_Salad.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 8,
+      "name": "Pacific Salad",
+      "type": "Salads",
+      "image": "Pacific_Salad.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 9,
+      "name": "Vegan Chopped Salad",
+      "type": "Salads",
+      "image": "Vegan_Chopped_Salad.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 10,
+      "name": "Sesame Seaweed Salad",
+      "type": "Salads",
+      "image": "Sesame_Seaweed_Salad.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 11,
+      "name": "Black Bean Salad",
+      "type": "Salads",
+      "image": "Black_Bean_Salad.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 12,
+      "name": "Muffuletta Olive Salad",
+      "type": "Salads",
+      "image": "Muffuletta_Olive_Salad.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 13,
+      "name": "Broccoli Crunch Salad",
+      "type": "Salads",
+      "image": "Broccoli_Crunch_Salad.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 14,
+      "name": "Seasoned Squid Salad",
+      "type": "Salads",
+      "image": "Seasoned_Squid_Salad.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 15,
+      "name": "Squash Butternut Sprout Brussels Fp Salad",
+      "type": "Salads",
+      "image": "Brussels_Salad.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 16,
+      "name": "Gala Apple",
+      "type": "Fruits",
+      "image": "Gala_Apple.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 17,
+      "name": "Green Apple",
+      "type": "Fruits",
+      "image": "Green_Apple.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 18,
+      "name": "Cherry Tomatoes",
+      "type": "Fruits",
+      "image": "Cherry_Tomatoes.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 15,
+      "name": "Squash Butternut Sprout Brussels Fp Salad",
+      "type": "Salads",
+      "image": "Brussels_Salad.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 16,
+      "name": "Gala Apple",
+      "type": "Fruits",
+      "image": "Gala_Apple.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 17,
+      "name": "Green Apple",
+      "type": "Fruits",
+      "image": "Green_Apple.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 18,
+      "name": "Cherry Tomatoes",
+      "type": "Fruits",
+      "image": "Cherry_Tomatoes.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 19,
+      "name": "Red Cherries",
+      "type": "Fruits",
+      "image": "Red_Cherry.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 20,
+      "name": "Blueberries",
+      "type": "Fruits",
+      "image": "Blueberries.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 21,
+      "name": "Strawberries",
+      "type": "Fruits",
+      "image": "Strawberries.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 22,
+      "name": "Banana",
+      "type": "Fruits",
+      "image": "Banana.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 23,
+      "name": "Watermelon",
+      "type": "Fruits",
+      "image": "Watermelon.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 24,
+      "name": "Honeydew",
+      "type": "Fruits",
+      "image": "Honeydew.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 25,
+      "name": "Red Grapes",
+      "type": "Fruits",
+      "image": "RedGrapes.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 26,
+      "name": "Green Grapes",
+      "type": "Fruits",
+      "image": "GreenGrapes.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 27,
+      "name": "Orange",
+      "type": "Fruits",
+      "image": "Orange.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 28,
+      "name": "Grapefruit",
+      "type": "Fruits",
+      "image": "Grapefruit.jpg",
+      "Measure": "3 1/2 oz.",
+      "Grams": 100,
+      "Calories": 265,
+      "Protein": 27,
+      "Fat": 15,
+      "Sat.Fat": 0,
+      "Fiber": 0,
+      "Carbs": 0
+    },
+    {
+      "id": 29,
+      "name": "Kiwi",
+      "type": "Fruits",
+      "image": "Kiwi.jpg",
+      "Measure": "1 1/3 cups",
+      "Grams": 85,
+      "Calories": 290,
+      "Protein": 30,
+      "Fat": "t",
+      "Sat.Fat": "t",
+      "Fiber": 0,
+      "Carbs": 42
+    },
+    {
+      "id": 30,
+      "name": "Mango",
+      "type": "Fruits",
+      "image": "Mango.jpg",
+      "Measure": "1 1/3 cups",
+      "Grams": 85,
+      "Calories": 290,
+      "Protein": 30,
+      "Fat": "t",
+      "Sat.Fat": "t",
+      "Fiber": 0,
+      "Carbs": 42
+    },
+    {
+      "id": 31,
+      "name": "Green Coconut",
+      "type": "Fruits",
+      "image": "GreenCoconut.jpg",
+      "Measure": "1 1/3 cups",
+      "Grams": 85,
+      "Calories": 290,
+      "Protein": 30,
+      "Fat": "t",
+      "Sat.Fat": "t",
+      "Fiber": 0,
+      "Carbs": 42
+    },
+    {
+      "id": 32,
+      "name": "Pineapple",
+      "type": "Fruits",
+      "image": "Pineapple.jpg",
+      "Measure": "1 1/3 cups",
+      "Grams": 85,
+      "Calories": 290,
+      "Protein": 30,
+      "Fat": "t",
+      "Sat.Fat": "t",
+      "Fiber": 0,
+      "Carbs": 42
+    },
+    {
+      "id": 33,
+      "name": "Orange Juice",
+      "type": "Juices",
+      "image": "Orange_Juice.jpg",
+      "Measure": "1 1/3 cups",
+      "Grams": 85,
+      "Calories": 290,
+      "Protein": 30,
+      "Fat": "t",
+      "Sat.Fat": "t",
+      "Fiber": 0,
+      "Carbs": 42
+    },
+    {
+      "id": 34,
+      "name": "Grapes Juice",
+      "type": "Juices",
+      "image": "Grape_Juice.jpg",
+      "Measure": "1 1/3 cups",
+      "Grams": 85,
+      "Calories": 290,
+      "Protein": 30,
+      "Fat": "t",
+      "Sat.Fat": "t",
+      "Fiber": 0,
+      "Carbs": 42
+    },
+    {
+      "id": 35,
+      "name": "Apple Juice",
+      "type": "Juices",
+      "image": "Apple_Juice.jpg",
+      "Measure": "1 1/3 cups",
+      "Grams": 85,
+      "Calories": 290,
+      "Protein": 30,
+      "Fat": "t",
+      "Sat.Fat": "t",
+      "Fiber": 0,
+      "Carbs": 42
+    },
+    {
+      "id": 36,
+      "name": "Pineapple Juice",
+      "type": "Juices",
+      "image": "Pineapple_Juice.jpg",
+      "Measure": "1 1/3 cups",
+      "Grams": 85,
+      "Calories": 290,
+      "Protein": 30,
+      "Fat": "t",
+      "Sat.Fat": "t",
+      "Fiber": 0,
+      "Carbs": 42
+    },
+    {
+      "id": 37,
+      "name": "Mango Juice",
+      "type": "Juices",
+      "image": "Mango_Juice.jpg",
+      "Measure": "1 1/3 cups",
+      "Grams": 85,
+      "Calories": 290,
+      "Protein": 30,
+      "Fat": "t",
+      "Sat.Fat": "t",
+      "Fiber": 0,
+      "Carbs": 42
+    },
+    {
+      "id": 38,
+      "name": "Strawberry Juice",
+      "type": "Juices",
+      "image": "Strawberry_Juice.jpg",
+      "Measure": "1 1/3 cups",
+      "Grams": 85,
+      "Calories": 290,
+      "Protein": 30,
+      "Fat": "t",
+      "Sat.Fat": "t",
+      "Fiber": 0,
+      "Carbs": 42
+    },
+    {
+      "id": 39,
+      "name": "Canberry Juice",
+      "type": "Juices",
+      "image": "Canberry_Juice.jpg",
+      "Measure": "1 1/3 cups",
+      "Grams": 85,
+      "Calories": 290,
+      "Protein": 30,
+      "Fat": "t",
+      "Sat.Fat": "t",
+      "Fiber": 0,
+      "Carbs": 42
+    },
+    {
+      "id": 40,
+      "name": "Cherry Juice",
+      "type": "Juices",
+      "image": "Cherry_Juice.jpg",
+      "Measure": "1 1/3 cups",
+      "Grams": 85,
+      "Calories": 290,
+      "Protein": 30,
+      "Fat": "t",
+      "Sat.Fat": "t",
+      "Fiber": 0,
+      "Carbs": 42
+    },
+    {
+      "id": 41,
+      "name": "Cabbage",
+      "type": "Vegetables",
+      "image": "cabbage.jpg",
+      
+      "Measure": "1 1/3 cups",
+      "Grams": 85,
+      "Calories": 290,
+      "Protein": 30,
+      "Fat": "t",
+      "Sat.Fat": "t",
+      "Fiber": 0,
+      "Carbs": 42
+    }
+  ],
+  "details": [
+    {
+      "id": 1,
+      "name": "Vegeterian",
+      "breakfast": "3/4th cup of oatmeal topped with your favourite berries and cinnamon",
+      "lunch": "A whole wheat vegetable wrap",
+      "snacks": "A medium-sized apple",
+      "dinner": "Quinoa with grilled veggies such as mushrooms, zucchini and tomatoes",
+      "milk": "1 glss full",
+      "image": "Vegdiet.jpg",
+      "calories": "4500 calories"
+    },
+    {
+      "id": 2,
+      "name": "Nonvegeterian diet",
+      "breakfast": "Two fruits like apple or banana, 1 cup of tea.",
+      "lunch": "Replace white carbohydrates like rice, bread, potatoes or pasta with whole wheat bread or chapattis, 1 piece of chicken with salad or fruit.",
+      "snacks": "A medium-sized orange",
+      "dinner": "Fish, steamed broccoli or any leafy vegetables and fat free ice cream.",
+      "milk": "1 glss full",
+      "image": "nonvegdiet.jpg",
+      "calories": "3000 calories"
+    },
+    {
+      "id": 3,
+      "name": "ketogenic diet",
+      "breakfast": "two eggs fried in butter served with sauteed greens",
+      "lunch": "a bunless burger topped with cheese, mushrooms, and avocado atop a bed of greens",
+      "snacks": "apple juice",
+      "dinner": "pork chops with green beans sauteed in olive oil",
+      "milk": "1/2 glass",
+      "image": "ketogenicdiet.jpg",
+      "calories": "2600 calories"
+    },
+    {
+      "id": 4,
+      "name": "Atkins diet",
+      "breakfast": "omelet with veggies, fried in butter",
+      "lunch": "shrimp salad with some olive oil",
+      "snacks": "fruit salad",
+      "dinner": "ground-beef stir fry with veggies",
+      "milk": "1/2 glass",
+      "image": "atkins.jpg",
+      "calories": "1600 calories"
+    },
+    {
+      "id": 5,
+      "name": "Mediterranean diet",
+      "breakfast": "an omelet with mushrooms, tomatoes, and onions",
+      "lunch": "a whole grain sandwich with cheese and fresh vegetables",
+      "snacks": "pineapple juice",
+      "dinner": "Mediterranean lasagna",
+      "milk": "not required",
+      "image": "med.jpg",
+      "calories": "2000 calories"
+    },
+    {
+      "id": 6,
+      "name": "Low carbohydrates diet",
+      "breakfast": "breakfast bowl with 2 large hard-boiled eggs, 1 tomato, and 1 cup cubed avocado.",
+      "lunch": ".5 cups (244 g) shrimp garden salad with shrimp, lettuce, eggs, tomato, and carrots, with 2 tablespoons (tbsp), or 30 milliliters (mL), olive oil vinaigrette.",
+      "snacks": "potato chips",
+      "dinner": "3 oz (85 g) grilled chicken with 1/2 cup (78 g) roasted Brussels sprouts and 1/2 cup (93 g) cooked quinoa",
+      "milk": "1 glass",
+      "image": "low.jpg",
+      "calories": "2600 calories"
+    },
+    {
+      "id": 7,
+      "name": "flexiterian diet",
+      "breakfast": "1 medium peach",
+      "lunch": "1 serving Spinach & Artichoke Salad with Parmesan Vinaigrette",
+      "snacks": "1 cup raspberries",
+      "dinner": "dinner",
+      "milk": "1 glass",
+      "image": "flex.jpg",
+      "calories": "3600 calories"
+    },
+    {
+      "id": 8,
+      "name": "Interminnent diet",
+      "breakfast": "1 avocado",
+      "lunch": "Grass-fed liver burgers are one of my favorite choices for lunch during the week, and they are extremely easy to prep to have throughout the entire week.",
+      "snacks": "mango juice",
+      "dinner": "two chapathi",
+      "milk": "1/2 glass",
+      "image": "int.jpg",
+      "calories": "2000 calories"
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": 6360,
+      "name": "Arjun",
+      "email": "arjun@gmail.com",
+      "message": "This is a perfect collaboration. Looking forward to work again."
+    },
+    {
+      "id": 8927,
+      "name": "Kiran",
+      "email": "kiran@gmail.com",
+      "message": "This was an excellent project experience. Budget was too good."
+    },
+    {
+      "id": 7321,
+      "name": "Arun",
+      "email": "arun@gmail.com",
+      "message": "Superb to Work with you. Looking forward to collaborate more."
+    },
+    {
+      "id": 1530,
+      "name": "Narayan",
+      "email": "narayan@gmail.com",
+      "message": "Content Marketing was so so good."
+    },
+    {
+      "id": 6894,
+      "name": "Nilesh",
+      "email": "nilesh@gmail.com",
+      "message": "Best in this area of work"
+    },
+    {
+      "id": 8934,
+      "name": "Josh",
+      "email": "josh@gmail.com",
+      "message": "Digital Marketing is challenging but it was done so clean here."
+    },
+    {
+      "id": 815,
+      "name": "Kethan",
+      "email": "kethan@gmail.com",
+      "message": "This is the place for Digital Marketing"
+    },
+    {
+      "id": 7442,
+      "name": "Roger",
+      "email": "roger@gmail.com",
+      "message": "My Ecommerce business picked up because of these guyz"
+    },
+    {
+      "id": 2446,
+      "name": "Ashish",
+      "email": "ashish@gmail.com",
+      "message": "These people are specialist in Ecommerce space"
+    },
+    {
+      "id": 8615,
+      "name": "Randy",
+      "email": "randy@gmail.com",
+      "message": "Market analysis is best done here"
+    },
+    {
+      "id": 5967,
+      "name": "brahmaiah",
+      "email": "brahmaiahpokuri1234@gmail.com",
+      "message": "people are most intrested in films"
+    }
+  ],
+  "forum": [
+    {
+      "id": 1,
+      "question": "shtrrea?",
+      "responses": [
+        "gjty",
+        "grtyk",
+        "user answer"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "user question?",
+      "responses": [
+        "answered"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "which diet is best?",
+      "responses": []
+    },
+    {
+      "id": 4,
+      "question": "what is the best nutrition plan?",
+      "responses": [
+        "spourts, millets and daily an egg",
+        null
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What are the key macronutrients that our body needs for optimal health, and in what quantities?",
+      "responses": [
+        null,
+        "carbohydrates, proteins, fats"
+      ]
+    },
+    {
+      "id": 6,
+      "responses": []
+    },
+    {
+      "id": 7,
+      "question": "suggest diet plan for vegetarian people",
+      "responses": [
+        "leafy vegetables and spourts"
+      ]
+    },
+    {
+      "id": 8,
+      "responses": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    align-items: center;
+    background-color: #f2f2f2; /* light gray color */
+  }
+  
+  .container img {
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+    margin-right: 120px;
+  }
+  
+  #description-block {
+    flex: 1;
+  }
+  
+  table {
+    border-collapse: collapse;
+    border-radius: 15px;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+    padding-left: 10px;
+  }
+  
+  h2{
+    margin-top: 90px;
+    margin-left: 140px;
+  }
+  
+  th {
+    background-color: #ebda91;
+  }
+  
